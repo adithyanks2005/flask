@@ -12,3 +12,6 @@ source ~/.bashrc
 
 # Install Postman using snap
 sudo snap install postman
+
+# Open Postman
+postman
